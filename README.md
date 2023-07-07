@@ -1,9 +1,5 @@
 # Digital Signatures
 
-***Target Audience:*** The contents of this project are for MATH5248 students or anyone with prior elementary knowledge of number theory, modular arithmetic, and public-key cryptography. 
-
-<br>
-
 ### Have you ever received an email, or any other sensitive document which made you question it's authenticity and integrity? With **Digital Signatures** you won't be second guessing yourself. Unlike your traditional written signature, or even an electronic version of it, digital signatures are generated via Mathematical Algorithms and are verified for its authenticity and data integrity. Digital signatures are unique, meaning no two digital signatures are the same. 
 
 <br>
